@@ -2,7 +2,11 @@
 
 I'm Zack, but also known as @zacharyc
 
-#### Currently Working On
+#### Currently Working On:
+
+Some Side Projects and finding my next permenant gig.
+
+#### Previously Worked On:
 
 [Airkit](https://www.airkit.com) - A low code development platform for building out customer apps.
 
