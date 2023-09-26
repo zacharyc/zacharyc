@@ -4,7 +4,9 @@ I'm Zack, but also known as @zacharyc
 
 #### Currently Working On:
 
-Some Side Projects and finding my next permenant gig.
+- [Acroyoga Field App](https://www.zacharyc.com/projects/afg/)
+- Guided Newport - An extremely opinionated guide to Newport, RI
+- A secret second brain idea
 
 #### Previously Worked On:
 
