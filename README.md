@@ -6,6 +6,8 @@ I'm Zack, but also known as @zacharyc
 
 - [Acroyoga Field App](https://www.zacharyc.com/projects/afg/)
 - Guided Newport - An extremely opinionated guide to Newport, RI
+- Learning Clojure
+- Working with Golang and Hugo
 - A secret second brain idea
 
 #### Previously Worked On:
