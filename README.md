@@ -9,6 +9,7 @@ I'm Zack, but also known as @zacharyc
 - Guided Newport - An extremely opinionated guide to Newport, RI
 - Learning Clojure
 - Working with Golang and Hugo
+  - [zacharyc](https://www.zacharyc.com) - My Hugo Site that I'm working on. 
 
 #### Previously Worked On:
 
