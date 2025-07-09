@@ -4,7 +4,7 @@ I'm Zack, but also known as @zacharyc
 
 #### Currently Working On:
 
-- [Gluino](https://www.gluino.io/)
+- [Authentic Auctions](https://www.authenticauctions.com/)
 - [Acroyoga Field App](https://www.zacharyc.com/projects/afg/)
 - Guided Newport - An extremely opinionated guide to Newport, RI
 - Learning Clojure
